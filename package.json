@@ -1,0 +1,24 @@
+{
+  "name": "liri-js",
+  "version": "1.0.0",
+  "description": "a bash command interface that calls different apis",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SunnyE/liri-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SunnyE/liri-js/issues"
+  },
+  "homepage": "https://github.com/SunnyE/liri-js#readme",
+  "dependencies": {
+    "request": "^2.73.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.3.0"
+  }
+}
